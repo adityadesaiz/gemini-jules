@@ -1,0 +1,6 @@
+{
+  "github_source": "sources/github/OWNER/REPO",
+  "default_branch": "main",
+  "verification_commands": ["npm test", "npm run build"],
+  "gemini_model": "gemini-2.5-pro"
+}
