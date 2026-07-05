@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Contains repo/verification-command config; not secret by default but
+# machine-specific and easy to fill in wrong — keep local, ship the example.
+storage/pipeline_config.json
+storage/STOP
+storage/bridge.log
+storage/cycles/
